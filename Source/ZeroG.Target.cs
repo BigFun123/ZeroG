@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright BigFun Software
 
 using UnrealBuildTool;
 using System.Collections.Generic;
