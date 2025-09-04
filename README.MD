@@ -1,8 +1,11 @@
 # ZeroG
 
-![ZeroG Logo](ZeroG.png)
+![ZeroG Logo](ZeroG.png)  
+  by Karl Lilje
 
 ## Overview
+![ZeroG Logo](doc/level.jpg)
+![ZeroG Logo](doc/level2.jpg)
 
 **ZeroG** is an Unreal Engine-powered puzzle game where you play as a young man with the extraordinary ability to defy gravity. Use your powers to navigate challenging environments, solve intricate puzzles, and uncover the mysteries behind your unique gift.
 
