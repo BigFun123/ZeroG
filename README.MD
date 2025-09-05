@@ -4,8 +4,13 @@
   by Karl Lilje
 
 ## Overview
+[Watch ZeroG gameplay demo on YouTube](https://www.youtube.com/watch?v=kBvnNHt50HY)
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kBvnNHt50HY" title="ZeroG gameplay demo" frameborder="0" allowfullscreen></iframe>
+
 ![ZeroG Logo](doc/level.jpg)
 ![ZeroG Logo](doc/level2.jpg)
+
 
 **ZeroG** is an Unreal Engine-powered puzzle game where you play as a young man with the extraordinary ability to defy gravity. Use your powers to navigate challenging environments, solve intricate puzzles, and uncover the mysteries behind your unique gift.
 
