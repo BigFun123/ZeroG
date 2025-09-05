@@ -1,5 +1,10 @@
 // Copyright BigFun Software
 
+/**
+ * Projectile class for ZeroG game.
+ * It handles collision and movement of the projectile.
+ */
+
 #pragma once
 
 #include "CoreMinimal.h"

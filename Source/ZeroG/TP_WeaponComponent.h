@@ -1,5 +1,10 @@
 // Copyright BigFun Software
 
+/**
+ * Component that handles weapon properties and firing mechanics.
+ * It allows attaching the weapon to a character and firing projectiles.
+ */
+
 #pragma once
 
 #include "CoreMinimal.h"

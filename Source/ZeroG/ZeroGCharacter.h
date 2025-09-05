@@ -1,5 +1,10 @@
 // Copyright BigFun Software
 
+/**
+ * Character class for a zero-gravity environment.
+ * It includes first-person mesh and camera components, as well as input actions for movement and looking around.
+ */
+
 #pragma once
 
 #include "CoreMinimal.h"

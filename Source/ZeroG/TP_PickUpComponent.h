@@ -1,5 +1,10 @@
 // Copyright BigFun Software
 
+/**
+ * Component that allows an actor to be picked up by a character.
+ * It uses a sphere collision to determine when a character is close enough to pick it up.
+ */
+
 #pragma once
 
 #include "CoreMinimal.h"

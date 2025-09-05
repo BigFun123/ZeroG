@@ -1,5 +1,10 @@
 // Copyright BigFun Software
 
+/**
+ * Player Controller class for ZeroG game.
+ * It manages input mapping contexts and player-specific controls.
+ */
+
 #pragma once
 
 #include "CoreMinimal.h"
